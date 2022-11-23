@@ -1,0 +1,11 @@
+C:\Users\Administrador.LIFERAY\Desktop\API+MVC V2\WebApplication2\obj\Docker\publish\WebApplication2.exe
+C:\Users\Administrador.LIFERAY\Desktop\API+MVC V2\WebApplication2\obj\Docker\publish\appsettings.Development.json
+C:\Users\Administrador.LIFERAY\Desktop\API+MVC V2\WebApplication2\obj\Docker\publish\appsettings.json
+C:\Users\Administrador.LIFERAY\Desktop\API+MVC V2\WebApplication2\obj\Docker\publish\WebApplication2.dll
+C:\Users\Administrador.LIFERAY\Desktop\API+MVC V2\WebApplication2\obj\Docker\publish\WebApplication2.deps.json
+C:\Users\Administrador.LIFERAY\Desktop\API+MVC V2\WebApplication2\obj\Docker\publish\WebApplication2.runtimeconfig.json
+C:\Users\Administrador.LIFERAY\Desktop\API+MVC V2\WebApplication2\obj\Docker\publish\WebApplication2.pdb
+C:\Users\Administrador.LIFERAY\Desktop\API+MVC V2\WebApplication2\obj\Docker\publish\Microsoft.OpenApi.dll
+C:\Users\Administrador.LIFERAY\Desktop\API+MVC V2\WebApplication2\obj\Docker\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Administrador.LIFERAY\Desktop\API+MVC V2\WebApplication2\obj\Docker\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Administrador.LIFERAY\Desktop\API+MVC V2\WebApplication2\obj\Docker\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
